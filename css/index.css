@@ -1342,8 +1342,8 @@ canvas:not(#ribbon-canvas),
   --global-font-size: 15px;
   --global-bg: #fff;
   --font-color: #4c4948;
-  --hr-border: #a4d8fa;
-  --hr-before-color: #80c8f8;
+  --hr-border: #d2ebfd;
+  --hr-before-color: #bfe4fb;
   --search-bg: #f6f8fa;
   --search-input-color: #4c4948;
   --search-a-color: #4c4948;
@@ -1407,7 +1407,7 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: url(http://i.postimg.cc/0Q9m6Pdr/IMG-4566-20230509-214045.jpg);
+  background: url(https://i.postimg.cc/rsVsg18M/IMG-4564-20230509-213940.jpg);
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -3805,7 +3805,7 @@ h1.page-title + .tag-cloud-list {
   overflow-wrap: break-word;
 }
 #article-container a {
-  color: #49b1f5;
+  color: #99a9bf;
 }
 #article-container a:hover {
   text-decoration: underline;
